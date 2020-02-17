@@ -1,2 +1,2 @@
 # SudokuSolver
-Sudoku Solver written Python
+Sudoku Solver written in Python
